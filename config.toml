@@ -1,4 +1,4 @@
-baseurl = "https://loanzen.in/"
+baseurl = "https://loanzen.github.io/"
 languageCode = "en-us"
 title = "Tech Behind Loanzen"
 theme = "hugo-steam-theme"
